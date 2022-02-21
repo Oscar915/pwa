@@ -16,7 +16,7 @@
     }],
     "start_url": "/pwa",
     "display": "standalone",
-    "orientation": "natural",
+    "orientation": "any",
     "theme_color": "aliceblue",
-    "background_color": "red"
+    "background_color": "blue"
   }
