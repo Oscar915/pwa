@@ -16,7 +16,7 @@
     }],
     "scope": "/",
     "id": "superracer",
-    "start_url": "/start.html",
+    "start_url": "/",
     "display": "fullscreen",
     "orientation": "landscape",
     "theme_color": "aliceblue",
