@@ -14,9 +14,9 @@
       "src": "icon/hd_hi",
       "sizes": "128x128"
     }],
-    "start_url": "/pwa",
+    "start_url": "/index.html",
     "display": "standalone",
-    "orientation": "any",
+    "orientation": "natural",
     "theme_color": "aliceblue",
     "background_color": "red"
   }
